@@ -1,5 +1,5 @@
 # Meal Planner App :plate_with_cutlery:
-[Try it here!](planmyplate.netlify.app/)
+[Try it here!](https://planmyplate.netlify.app/)
 
 # User Features
 ## Homepage
